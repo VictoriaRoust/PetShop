@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto';
+}
+
+#barra-superior {
+    background-color: #222222;
+    color: #F3F3F3;
+    font-size: 10px;
+
+}
+#menu-principal {
+    background-color:#F0A83E ;
+    color: #FFFFFF;
+    font-size: 13px;
+}
+#banner h3 {
+    font-size: 30px;
+    color: #3C2313;
+}
+#banner h5 {
+    font-size: 16px;
+    color: #3C2313;
+}
+#banner a {
+    font-size: #F0A83E;
+    color: #FFFFFF;
+}
+ #menu-patita h2 {
+     font-size: 40px;
+     color: #3C2313;
+ }
+ #productos {
+    background-color: #FBFAF6;
+}
+footer {
+    background-color: #3C2313;
+    color: #FFFFFF;
+}
+footer h4 {
+    font-size: 20px;
+}
+footer p {
+    font-size: 10px;
+    color: #8A8787;
+}
+#derechos {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
